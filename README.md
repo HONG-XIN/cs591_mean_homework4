@@ -12,5 +12,5 @@ npm start
 open "localhost:4200"
 
 ## Screenshots
-[logo]: imgs/user.png "Logo Title Text 2"
-[logo]: imgs/weather.png "Logo Title Text 2"
+![Drag Racing](imgs/user.png)
+![Drag Racing](imgs/weather.png)
